@@ -1,2 +1,4 @@
 SRC += muse.c
 AUDIO_ENABLED = yes
+MOUSEKEY_ENABLE = yes
+TAP_DANCE_ENABLE = no
